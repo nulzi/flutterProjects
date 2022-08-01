@@ -9,7 +9,6 @@ class MyButton extends StatelessWidget {
       required this.radius,
       required this.onPressed})
       : super(key: key);
-
   final Widget image;
   final Widget text;
   final Color color;
